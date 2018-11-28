@@ -12,6 +12,8 @@ import requests
 import schedule
 from colorama import *
 
+# Usage:
+# This example polls an Atlanta Weather Station every 5 minutes for weather data.
 
 def colors():
     # Initialize and define colors
